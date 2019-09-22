@@ -359,3 +359,12 @@ h1, h2 {
     margin: 50px;
     
 }
+.credit {
+    text-align: center;
+    color: #999;
+    font-family: "Roboto Mono";
+  }
+  
+  a {
+    color: #333;
+  }
